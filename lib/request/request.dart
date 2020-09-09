@@ -4,7 +4,7 @@ import 'package:http/http.dart'as http;
 import 'package:buxdumobile/models/faq_item.dart';
 
 class Request{
-  static String URL = 'http://shartnoma.buxdu.uz/';
+  static String URL = '';
 
   static Future<String> get_payment(String id) async {
     var response = await http.get(
@@ -80,7 +80,7 @@ class Request{
     var response = await http.post(
       "${URL}api/comment/add/",
       headers: {
-        'Authorization':'Token 1db6b0122bc5320f4ecaf8195345e1754a8a6adc'
+        'Authorization':''
       },
       body: {
         'name':name,
