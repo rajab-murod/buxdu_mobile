@@ -3,9 +3,9 @@
 A new Flutter application.
 
 ## Screenshots
-![screen1](https://i.pinimg.com/originals/e4/87/02/e487021a43b0b7854c8c3f382cb095fa.jpg){:height="24px" width="48px"}
-![screen2](https://i.pinimg.com/originals/80/19/36/801936c97fb5ce8525942ee4947ee3b2.jpg){:height="24px" width="48px"}
-![screen3](https://i.pinimg.com/originals/4a/5c/17/4a5c17a96708bf98d8a860b4558ccb2a.jpg){:height="24px" width="48px"}
+<img src="https://i.pinimg.com/originals/e4/87/02/e487021a43b0b7854c8c3f382cb095fa.jpg" width="200" height="200">
+<img src="https://i.pinimg.com/originals/80/19/36/801936c97fb5ce8525942ee4947ee3b2.jpg" width="200" height="200">
+<img src="https://i.pinimg.com/originals/4a/5c/17/4a5c17a96708bf98d8a860b4558ccb2a.jpg" width="200" height="200">
 
 ## Getting Started
 
